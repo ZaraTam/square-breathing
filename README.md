@@ -1,6 +1,6 @@
 # Square breathing<br>
 <br>
-Square breathing technique (aka box breathing technique) is a form of relaxation training.<br>
+Square breathing technique (aka box breathing technique) is a mindfulness and relaxation exercise.<br>
 <br>
 Cycle<br>
 1. N counts in<br>
